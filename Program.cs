@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AsciiArt {
+namespace proyecto_sena {
 	class Program {
 		static void Main(string[] args) {
 			Program menu = new Program();
@@ -13,12 +13,12 @@ namespace AsciiArt {
 			do {
 				menu.Menu();
 				Console.Write("Digita una opcion para ver la resolucion del ejercicio: ");
-                opcion = int.Parse( Console.ReadLine() ); // Fernando
+                opcion = int.Parse( Console.ReadLine() );
 				
 				Console.WriteLine();
 				switch (opcion) {
                     case 0:
-						menu.AsciiArt("pacman_logo.txt");
+						menu.AsciiArt("pac_firma.txt");
 						menu.Firma();
 					break;
 
