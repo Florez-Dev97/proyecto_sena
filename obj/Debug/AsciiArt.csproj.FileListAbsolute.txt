@@ -1,0 +1,15 @@
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Debug\AsciiArt.exe.config
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Debug\AsciiArt.exe
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Debug\AsciiArt.pdb
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Debug\AsciiArt.csprojResolveAssemblyReference.cache
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Debug\AsciiArt.exe
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Debug\AsciiArt.pdb
+K:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Debug\AsciiArt.exe.config
+K:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Debug\AsciiArt.exe
+K:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Debug\AsciiArt.pdb
+K:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Debug\AsciiArt.exe
+K:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Debug\AsciiArt.pdb
+K:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Debug\AsciiArt.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Source\Repos\proyecto_sena\bin\Debug\AsciiArt.exe.config
+C:\Users\Fernando\Source\Repos\proyecto_sena\obj\Debug\AsciiArt.exe
+C:\Users\Fernando\Source\Repos\proyecto_sena\obj\Debug\AsciiArt.pdb

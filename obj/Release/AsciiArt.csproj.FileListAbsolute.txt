@@ -1,0 +1,5 @@
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Release\AsciiArt.exe.config
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Release\AsciiArt.exe
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Release\AsciiArt.pdb
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Release\AsciiArt.exe
+E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Release\AsciiArt.pdb
