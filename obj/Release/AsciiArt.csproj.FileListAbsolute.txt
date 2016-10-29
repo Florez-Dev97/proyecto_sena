@@ -3,3 +3,9 @@ E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Release\AsciiArt.exe
 E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\bin\Release\AsciiArt.pdb
 E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Release\AsciiArt.exe
 E:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Release\AsciiArt.pdb
+C:\Users\Fernando\Source\Repos\proyecto_sena\bin\Release\AsciiArt.exe.config
+C:\Users\Fernando\Source\Repos\proyecto_sena\obj\Release\AsciiArt.exe
+C:\Users\Fernando\Source\Repos\proyecto_sena\obj\Release\AsciiArt.pdb
+C:\Users\Fernando\Source\Repos\proyecto_sena\bin\Release\AsciiArt.exe
+C:\Users\Fernando\Source\Repos\proyecto_sena\bin\Release\AsciiArt.pdb
+C:\Users\Fernando\Source\Repos\proyecto_sena\obj\Release\AsciiArt.csprojResolveAssemblyReference.cache
