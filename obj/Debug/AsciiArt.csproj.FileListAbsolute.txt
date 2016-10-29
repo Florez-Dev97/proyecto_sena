@@ -13,3 +13,6 @@ K:\sena\ADSI\Rafael Perez\CSharp\Algoritmos\AsciiArt\obj\Debug\AsciiArt.csprojRe
 C:\Users\Fernando\Source\Repos\proyecto_sena\bin\Debug\AsciiArt.exe.config
 C:\Users\Fernando\Source\Repos\proyecto_sena\obj\Debug\AsciiArt.exe
 C:\Users\Fernando\Source\Repos\proyecto_sena\obj\Debug\AsciiArt.pdb
+C:\Users\Fernando\Source\Repos\proyecto_sena\bin\Debug\AsciiArt.exe
+C:\Users\Fernando\Source\Repos\proyecto_sena\bin\Debug\AsciiArt.pdb
+C:\Users\Fernando\Source\Repos\proyecto_sena\obj\Debug\AsciiArt.csprojResolveAssemblyReference.cache

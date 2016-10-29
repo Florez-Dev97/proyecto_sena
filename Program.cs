@@ -96,6 +96,7 @@ namespace proyecto_sena {
 			Console.WriteLine("7. Ejercicio 7");
 			Console.WriteLine("8. Ejercicio 8");
 			Console.WriteLine("9. Ejercicio 9");
+			Console.WriteLine("10. Mostrar logo del sena en ASCII Art");
 			Console.WriteLine("0. Salir");
 		}
 
